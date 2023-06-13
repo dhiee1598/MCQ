@@ -1,0 +1,13 @@
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.Resources.resources
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.vbproj.GenerateResource.Cache
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\bin\Debug\MCQ.exe
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\bin\Debug\MCQ.pdb
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\bin\Debug\MCQ.xml
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.exe
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.xml
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.pdb
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.FormLogin.resources
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.FormHome.resources
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.FormMath.resources
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.FormJava.resources
+C:\Users\Dexter\Desktop\Dexter\VBSample\MCQ\MCQ\obj\x86\Debug\MCQ.FormPython.resources
